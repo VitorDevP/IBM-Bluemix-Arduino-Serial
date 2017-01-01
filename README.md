@@ -10,6 +10,7 @@ A little project to connect arduino with Bluemix, using node js and serial port.
 6. SetUp environment.
 7. Setup Arduino.
 8. Run `node app.js`
+9. Go to node red running on bluemix and check debug tab.
 
 # Setup Ibm Bluemix
 1. Create new app internet of things platform starter.
@@ -18,6 +19,8 @@ A little project to connect arduino with Bluemix, using node js and serial port.
 4. Create new device Type.
 5. Select device type that was just created and create new device.
 6. Open node red on app.
+
+>This `How to` link must help you to Setup Bluemix.
 
 # Node Red
 1. Add new flow tab.
