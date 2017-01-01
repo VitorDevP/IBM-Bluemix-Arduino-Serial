@@ -20,7 +20,7 @@ A little project to connect arduino with Bluemix, using node js and serial port.
 5. Select device type that was just created and create new device.
 6. Open node red on app.
 
->This `How to` link must help you to Setup Bluemix.
+>This [How to](https://developer.ibm.com/recipes/tutorials/how-to-register-devices-in-ibm-iot-foundation/) link must help you to Setup Bluemix.
 
 # Node Red
 1. Add new flow tab.
