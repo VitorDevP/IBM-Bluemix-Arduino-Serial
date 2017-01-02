@@ -37,7 +37,7 @@ A little project to connect arduino with Bluemix, using node js and serial port.
 
 # Setup Arduino
 1. Install `Arduino IDE`.
-2. Verify if serial port is working and what is. Windows should be `'COM3'`, Mac `'/dev/tty.usbserial-A6007wOD`.
+2. Verify if serial port is working and which is. Windows should be `'COM3'`, Mac `'/dev/tty.usbserial-A6007wOD`.
 3. Download IBMBlumix Arduino file and upload it on arduino.
 4. Replace the values of file `.ENV` with the values of arduino, port and BaudRate. BaudRate commonly is 9600.
 
