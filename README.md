@@ -25,7 +25,7 @@ A little project to connect arduino with Bluemix, using node js and serial port.
 # Node Red
 1. Add new flow tab.
 2. Drag and drop. `IBM iot module` and `Debug module`. Bond them.
-3. Open `IBM iot module` and chosse Bluemix Service in Authentication, Device ID put `device Id` created.
+3. Open `IBM iot module` and choose Bluemix Service in Authentication,in Device ID put `device Id` created.
 4. Open Debug Tab on side of screen.
 
 >This [How-to](https://developer.ibm.com/recipes/tutorials/create-a-simulated-device-with-simulated-sensors/) must help you to setup Node Red on bluemix
